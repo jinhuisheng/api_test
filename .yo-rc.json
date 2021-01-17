@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.test"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "api_test",
+    "packageName": "com.test",
+    "packageFolder": "com/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmMzODJmNDhiMDM0N2YyYzZiOWViMGFhNDIxOGVlMDAwMGNiMWJiZGQyMzFlNTg0ZjI5MGM0YTNkOGMyODAxM2IzMjlhYTM2YzM1Zjk2ZjA0YmZhZjlhZDNjNWExNzA3OTg5ZDRlNjQ5ZGE5NmQ3OWRkMGRiYThiYjczNWU0NjM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1610846651321,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
